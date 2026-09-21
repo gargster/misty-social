@@ -1,9 +1,9 @@
 {
-  "publicKey": "ed25519:c228e14ec05bb967c8664776e46f9a22c738e924bfe5211974e7bc9f078103ba",
-  "handle": "canonical.social",
-  "repoURL": "https://github.com/gargster/canonical-social.git",
-  "displayName": "Canonical",
-  "bio": "Genesis",
-  "created": "2026-09-06T03:30:31.900606Z",
-  "signature": "ssxZsUu6fb5CyEWfydmYd6KHviprpOupfp5QViD9cmFN+7Zh8KbbJnL7/rsw9GV7yKBAq5F8cBpWCIdqwRRxBg=="
+  "publicKey": "ed25519:24efa43e1bd3058191a5ea23953dcfe3bdb91eb9c298cec98a633aa890b63ae8",
+  "handle": "misty.social",
+  "repoURL": null,
+  "displayName": "Misty",
+  "bio": "Pokemon Trainer",
+  "created": "2026-09-21T02:47:22.611827Z",
+  "signature": "nRY3GjcDIaCI6zA18XDBlHPr+TLJJMU9Sf6EctrhnPvSkGfyS7bcRBTATn/17h+XDaWsBDzdkHuDdbsXFa+QAw=="
 }
