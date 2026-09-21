@@ -1,9 +1,9 @@
 {
   "publicKey": "ed25519:24efa43e1bd3058191a5ea23953dcfe3bdb91eb9c298cec98a633aa890b63ae8",
   "handle": "misty.social",
-  "repoURL": null,
+  "repoURL": "https://github.com/gargster/misty-social.git",
   "displayName": "Misty",
   "bio": "Pokemon Trainer",
   "created": "2026-09-21T02:47:22.611827Z",
-  "signature": "nRY3GjcDIaCI6zA18XDBlHPr+TLJJMU9Sf6EctrhnPvSkGfyS7bcRBTATn/17h+XDaWsBDzdkHuDdbsXFa+QAw=="
+  "signature": "Awd/gOJbOze/s8jEHIABZhVw5ZgUYZxrtrHYs/80YW0Wun5eL+p6SICZl91UBFeBpE5HH0VPoZQRQjN9NDVNDg=="
 }
