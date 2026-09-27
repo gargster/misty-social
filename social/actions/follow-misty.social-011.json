@@ -1,0 +1,8 @@
+{
+  "id": "follow-misty.social-011",
+  "type": "follow",
+  "author": "ed25519:24efa43e1bd3058191a5ea23953dcfe3bdb91eb9c298cec98a633aa890b63ae8",
+  "created": "2026-09-27T08:11:42.094956Z",
+  "target": "ed25519:549ead8e2ab27d3fbdc269d920c23a2ff36e5cec14ddd4501db2a8fec3e00293",
+  "signature": "tt7MQE4v722LQ2Uh1o3CBDKMRafBM8IyNkwikArXz1AeCioC+P4ag/yRS0UBqLMtR7FRf5s3a32rMEOtXqcTDQ=="
+}
