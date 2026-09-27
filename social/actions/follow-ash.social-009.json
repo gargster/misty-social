@@ -1,0 +1,8 @@
+{
+  "id": "follow-ash.social-009",
+  "type": "follow",
+  "author": "ed25519:549ead8e2ab27d3fbdc269d920c23a2ff36e5cec14ddd4501db2a8fec3e00293",
+  "created": "2026-09-27T08:06:09.711090Z",
+  "target": "ed25519:0611727e3dbe4f962680cfcf7328e453478d8846e69c7687c85a11c2056c7fdd",
+  "signature": "TaoBro0EHCXJfsKivrhW45dvjwsSgcvkCYh0N/NvopojQZDRk54BlQ3Y9Iua6EJI8UBC6UGSkoI4VmeEWnMNBQ=="
+}

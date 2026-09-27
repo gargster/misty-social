@@ -1,0 +1,9 @@
+{
+  "id": "like-ash.social-011",
+  "type": "like",
+  "author": "ed25519:549ead8e2ab27d3fbdc269d920c23a2ff36e5cec14ddd4501db2a8fec3e00293",
+  "created": "2026-09-27T08:09:20.208087Z",
+  "target": "post-donald.social-010",
+  "targetHandle": "donald.social",
+  "signature": "DOnNMjqTA24WhwtqoxAbBdG+dAQhX4ghajBTTnx+0+tPMY/NCbGcGjo7JXHLeDY7AdEdE0e5A5YL7kf626a9Ag=="
+}
